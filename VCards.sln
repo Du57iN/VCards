@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VCards", "VCards\VCards.csproj", "{6B369C08-A970-485B-BA98-7B9E5AE1D1CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{2E1ED0A6-5764-4FE5-AF22-A6F8F5232A47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B369C08-A970-485B-BA98-7B9E5AE1D1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B369C08-A970-485B-BA98-7B9E5AE1D1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B369C08-A970-485B-BA98-7B9E5AE1D1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B369C08-A970-485B-BA98-7B9E5AE1D1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E1ED0A6-5764-4FE5-AF22-A6F8F5232A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1ED0A6-5764-4FE5-AF22-A6F8F5232A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1ED0A6-5764-4FE5-AF22-A6F8F5232A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1ED0A6-5764-4FE5-AF22-A6F8F5232A47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
